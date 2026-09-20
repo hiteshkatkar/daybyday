@@ -1,2 +1,0 @@
-# daybyday
-Search everything, everywhere.
